@@ -1,0 +1,14 @@
+{
+  "namaPemilihan": "Pemilihan Ketua BEM Primakara 2026",
+  "calon": [
+    {
+      "nama": "Calon 01",
+      "visiMisi": "Mewujudkan BEM yang transparan, responsif, dan kolaboratif."
+    },
+    {
+      "nama": "Calon 02",
+      "visiMisi": "Menguatkan advokasi mahasiswa dan digitalisasi layanan organisasi."
+    }
+  ],
+  "catatanAlamatPemilih": "Gunakan alamat wallet dari Remix VM atau MetaMask testnet. Jangan gunakan private key asli di dokumen laporan."
+}

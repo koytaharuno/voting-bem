@@ -1,0 +1,5 @@
+ethers.js v6.13.2
+
+Source: https://www.npmjs.com/package/ethers
+Runtime source: https://cdn.jsdelivr.net/npm/ethers@6.13.2/dist/ethers.min.js
+License: MIT
